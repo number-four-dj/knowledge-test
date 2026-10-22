@@ -1,0 +1,9 @@
+#VPSidebarNav .VPSidebarItem.level-0,
+#VPSidebarNav .VPSidebarItem.collapsed.level-0 {
+  padding-bottom: 12px;
+}
+
+#VPSidebarNav .group:last-child .items > .VPSidebarItem.level-1 {
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--vp-c-divider);
+}
