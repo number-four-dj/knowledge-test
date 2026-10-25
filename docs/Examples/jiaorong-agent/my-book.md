@@ -7,5 +7,5 @@
 ### 小明的个人信息
 年龄：18 岁
 性别：男
-照片：![alt text](assets/my-book/image.png)
+![alt text](assets/my-book/image.png)
 地址：中原王家街道口 32 号
