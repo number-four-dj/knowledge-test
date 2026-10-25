@@ -8,4 +8,5 @@
 年龄：18 岁
 性别：男
 ![alt text](assets/my-book/image.png)
+![alt text](assets/my-book/image-1.png)
 地址：中原王家街道口 32 号
