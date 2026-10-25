@@ -155,6 +155,12 @@ export default defineConfig({
       next: '下一页'
     },
 
+    currentPageUrl: {
+      origin: 'https://c4ai.ccccltd.cn',
+      base: '/jiaorong-super-agent-doc',
+      label: '当前网址'
+    },
+
     lastUpdated: {
       text: '最后更新于',
       formatOptions: {
